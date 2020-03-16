@@ -1,5 +1,4 @@
-# Informational Genomics
-## information content of genomes and its divergence from randomness
+# Informational Genomics: information content of genomes and its divergence from randomness
 Ph.D. course "Informational genomics:  information content of genomes and its divergence from randomness"
 
 ## Zoom meetings
