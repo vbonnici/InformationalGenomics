@@ -4,6 +4,9 @@ Ph.D. course "Informational genomics:  information content of genomes and its di
 ## Zoom meetings
 Next meeting is set on March 17th at 10:00 am. Here is the link to enter the Zoom meeting: [link](https://univr.zoom.us/j/153868465)
 
+## Recordings
+[Folder](https://www.dropbox.com/sh/o048r5xbkwfh7od/AABxmaSe28bNqfVstOusG_Vha?dl=0)
+
 ## References
 [Elements of Information Theory](https://www.wiley.com/en-it/Elements+of+Information+Theory,+2nd+Edition-p-9780471241959)
 
