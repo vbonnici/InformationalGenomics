@@ -3,6 +3,7 @@ Ph.D. course "Informational genomics:  information content of genomes and its di
 
 ## Zoom meetings
 Next meeting is set on March 17th at 10:00 am. Here is the link to enter the Zoom meeting: [link](https://univr.zoom.us/j/153868465)
+
 Next meeting is set on March 19th at 15:00 am. Here is the link to enter the Zoom meeting: [link](https://univr.zoom.us/j/268778494?pwd=WmpsODl5dWdtanJ6dSswbG1xa2Fldz09)
 
 ## Recordings
