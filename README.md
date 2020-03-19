@@ -20,6 +20,8 @@ Next meeting is set on March 19th at 15:00 am. Here is the link to enter the Zoo
 
 [An information test for random finite strigs](https://www.nature.com/articles/srep28840)
 
-[Recurrence distance distribution inf computational genomics](https://www.researchgate.net/profile/Vincenzo_Bonnici/publication/283280658_Recurrence_Distance_Distributions_in_Computational_Genomics/links/5632166408ae0530378eb2ed/Recurrence-Distance-Distributions-in-Computational-Genomics.pdf)
+[Recurrence distance distribution in computational genomics](https://www.researchgate.net/profile/Vincenzo_Bonnici/publication/283280658_Recurrence_Distance_Distributions_in_Computational_Genomics/links/5632166408ae0530378eb2ed/Recurrence-Distance-Distributions-in-Computational-Genomics.pdf)
+
+[Recurrence distributions in computational genomics](recurrence-distribution.pdf)
 
 [Infogenomics Tools: a computational suite for informational analysis of genomes](https://www.ommegaonline.org/article-details/InfoGenomics-Tools--A-computational-suite-for-informational-analysis-of-genomes/91)
