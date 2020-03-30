@@ -26,6 +26,6 @@ Next meeting is set on March 26th at 15:00. Here is the link to enter the Zoom m
 
 [Recurrence distance distribution in computational genomics](https://www.researchgate.net/profile/Vincenzo_Bonnici/publication/283280658_Recurrence_Distance_Distributions_in_Computational_Genomics/links/5632166408ae0530378eb2ed/Recurrence-Distance-Distributions-in-Computational-Genomics.pdf)
 
-[Recurrence distributions in computational genomics](recurrence-distribution.pdf)
+[Distributions in computational genomics](recurrence-distribution.pdf)
 
 [Infogenomics Tools: a computational suite for informational analysis of genomes](https://www.ommegaonline.org/article-details/InfoGenomics-Tools--A-computational-suite-for-informational-analysis-of-genomes/91)
